@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ai-puzzle-solver.git
+git clone https://github.com/sowjanyamutha/ai-puzzle-solver.git
 cd ai-puzzle-solver
 Run the Solver:
 
